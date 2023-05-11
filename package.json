@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "README-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions;this last part increases the likelihood that other developers will contribute to the success of the project. You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-antonello/README-generator.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-antonello/README-generator/issues"
+  },
+  "homepage": "https://github.com/markmcdnyu/README-Generator#readme",
   "dependencies": {
-    "inquirer": "8.2.4"
+    "inquirer": "^9.2.2"
   }
 }
