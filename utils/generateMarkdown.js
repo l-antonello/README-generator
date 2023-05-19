@@ -28,6 +28,9 @@ function generateMarkdown(data) {
 # TITLE
 ${data.title}
 
+## DESCRIPTION
+${data.description}
+
 ## INSTALLATION
 ${data.installation}
 
@@ -36,6 +39,9 @@ ${data.usage}
 
 ## LICENSE
 ${renderLicenseBadge(data.license)}
+
+## CONTRIBUTING
+${data.contributing}
 
 ## DESCRIPTION
 ${data.description}
