@@ -1,21 +1,21 @@
 
-## TITLE
+# TITLE
 Intro to Node.js
 
-# INSTALLATION
+## INSTALLATION
 By running node index
 
-# USAGE
+## USAGE
 The program is used by inputting prompts and selecting choices
 
-# LICENSE
+## LICENSE
 ![License:Apache](https://img.shields.io/badge/License-Apache-brightgreen.svg)
 
-# DESCRIPTION
+## DESCRIPTION
 This is an intro to using Node.js
-# Tests
+## TESTING
 N/A
 
-# CONTACT INFO
+## CONTACT INFO
 * GitHub Username: l-antonello
 * Contact Email: antonelloluke@gmail.com
